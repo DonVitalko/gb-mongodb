@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      host: 'localhost'
+      port: 27017
+      authentication-database: 'admin'
+      username: 'geek'
+      password: 'geek'
+      database: 'gb-shop'
+      auto-index-creation: true
